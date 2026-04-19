@@ -1,2 +1,4 @@
-# LGD-OS
-这是一个在windows上面的liunx风dos
+# 中文 CHINESE
+自己去发行版看
+# 英文 ENGLISH
+Go check the distribution yourself.

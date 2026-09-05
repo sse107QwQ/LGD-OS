@@ -1,0 +1,333 @@
+# depslib dependency file v1.0
+1775970032 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\calculator.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"declarations.h"
+
+1788441094 d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\declarations.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<direct.h>
+	<io.h>
+	<ctype.h>
+	<winsock2.h>
+	<windows.h>
+	<conio.h>
+	"log.h"
+
+1774789080 d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\log.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdarg.h>
+
+1775970039 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\cmd_game.c
+	"declarations.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<io.h>
+
+1775960741 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\cmd_gcc.c
+	"declarations.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<direct.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1774794722 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\cmd_mahjong.c
+	"declarations.h"
+	"mahjong.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1774793514 d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\mahjong.h
+	<stdio.h>
+
+1775460080 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\dir_commands.c
+	"declarations.h"
+	<string.h>
+	<io.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1776571611 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\file_commands.c
+	"declarations.h"
+	<string.h>
+	<time.h>
+	<errno.h>
+	<windows.h>
+
+1775958659 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\find_commands.c
+	"declarations.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<windows.h>
+	<io.h>
+	<dirent.h>
+	<unistd.h>
+
+1774789066 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\fs_utils.c
+	"declarations.h"
+	<string.h>
+	<io.h>
+	<stdio.h>
+	<stdlib.h>
+
+1774789073 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\log.c
+	"log.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdarg.h>
+	"declarations.h"
+
+1777117154 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\main.c
+	"declarations.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1774789093 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\path_utils.c
+	"declarations.h"
+	<string.h>
+	<stdio.h>
+	<direct.h>
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1788439379 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\shell.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declarations.h"
+	"log.h"
+	<time.h>
+	<stdarg.h>
+	<windows.h>
+
+1777086011 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\sys_commands.c
+	"declarations.h"
+	<string.h>
+
+1774789115 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\text_commands.c
+	"declarations.h"
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+
+1774789120 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\tree_commands.c
+	"declarations.h"
+	<string.h>
+	<io.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<direct.h>
+
+1788439322 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\cmd_ssh.c
+	"declarations.h"
+	"cmd_ssh.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netdb.h>
+
+1788439303 d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026572027\cmd_ssh.h
+
+1775970032 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\calculator.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"declarations.h"
+
+1788577021 d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\declarations.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<direct.h>
+	<io.h>
+	<ctype.h>
+	<winsock2.h>
+	<windows.h>
+	<conio.h>
+	"log.h"
+
+1774789080 d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\log.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdarg.h>
+
+1775960741 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\cmd_gcc.c
+	"declarations.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<direct.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1774794722 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\cmd_mahjong.c
+	"declarations.h"
+	"mahjong.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1774793514 d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\mahjong.h
+	<stdio.h>
+
+1788439322 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\cmd_ssh.c
+	"declarations.h"
+	"cmd_ssh.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netdb.h>
+
+1788439303 d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\cmd_ssh.h
+
+1775460080 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\dir_commands.c
+	"declarations.h"
+	<string.h>
+	<io.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1776571611 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\file_commands.c
+	"declarations.h"
+	<string.h>
+	<time.h>
+	<errno.h>
+	<windows.h>
+
+1775958659 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\find_commands.c
+	"declarations.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<windows.h>
+	<io.h>
+	<dirent.h>
+	<unistd.h>
+
+1774789066 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\fs_utils.c
+	"declarations.h"
+	<string.h>
+	<io.h>
+	<stdio.h>
+	<stdlib.h>
+
+1774789073 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\log.c
+	"log.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdarg.h>
+	"declarations.h"
+
+1777117154 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\main.c
+	"declarations.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1774789093 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\path_utils.c
+	"declarations.h"
+	<string.h>
+	<stdio.h>
+	<direct.h>
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1788577484 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\sys_commands.c
+	"declarations.h"
+	<string.h>
+
+1774789115 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\text_commands.c
+	"declarations.h"
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+
+1774789120 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\tree_commands.c
+	"declarations.h"
+	<string.h>
+	<io.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<direct.h>
+
+1788577661 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\shell.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declarations.h"
+	"log.h"
+	<time.h>
+	<stdarg.h>
+	<windows.h>
+
+1788442675 source:d:\c\lgd-os by sse_107\lgd-os-1.2 builds2026932108\cmd_game.c
+	"declarations.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
